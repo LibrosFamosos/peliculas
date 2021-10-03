@@ -3,7 +3,7 @@
     <title>Películas Basadas En Libros Famosos</title>
     <link href="https://peliculas.librosfamosos.com/feed.xml" rel="self" />
     <link href="https://peliculas.librosfamosos.com" />
-    <updated>2021-10-04T01:58:43+03:00</updated>
+    <updated>2021-10-04T02:28:03+03:00</updated>
     <author>
         <name>Ion Iacob y Jacqueline M.Q.</name>
     </author>
@@ -21,22 +21,26 @@
             <category term="De Libro a Película"/>
             <category term="Aventuras"/>
 
-        <updated>2021-10-04T01:58:43+03:00</updated>
+        <updated>2021-10-04T02:28:03+03:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://peliculas.librosfamosos.com/media/posts/2/El-ladron-de-palabras-2012.jpg" alt="" />
                     
   <p id="todo-acerca-de-la-pelcula--de-libros-famosos-qu-sali-primero-el-libro-o-la-pelcula-descubre-los-escritores-productores-actores-y-comprtelo-fcil" class="align-center">
-    Todo acerca de la Película ... de Libros Famosos. ¿Qué salió primero; El Libro o la Película? Descubre los Escritores, Productores, Actores y compártelo fácil.
+    Todo acerca de la Película "El Ladrón de Palabras" basada en Libros Famosos. ¿Qué salió primero; El Libro o la Película? Descubre los Escritores, Productores, Actores y compártelo fácil.
   </p>
+<div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/L5RCZoxWq_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://peliculas.librosfamosos.com/media/posts/2/El-ladron-de-palabras-2012.jpg" alt="" />
                 
   <p id="todo-acerca-de-la-pelcula--de-libros-famosos-qu-sali-primero-el-libro-o-la-pelcula-descubre-los-escritores-productores-actores-y-comprtelo-fcil" class="align-center">
-    Todo acerca de la Película ... de Libros Famosos. ¿Qué salió primero; El Libro o la Película? Descubre los Escritores, Productores, Actores y compártelo fácil.
+    Todo acerca de la Película "El Ladrón de Palabras" basada en Libros Famosos. ¿Qué salió primero; El Libro o la Película? Descubre los Escritores, Productores, Actores y compártelo fácil.
   </p>
+<div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/L5RCZoxWq_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
 <hr id="read-more" />
 
     <h4 id="ndice-de-contenidosbr1-quin-sali-primerobr2-sinopsis-de-la-pelculabr3-donde-ver-la-pelculabr4-sinopsis-del-librobr5-donde-leer-el-librobr">
@@ -51,9 +55,11 @@
       Sinopsis de la Película&nbsp;%posttitle
     </h3>
 
-  <p>
-    
-  </p>
+    <h6 id="ver-ficha-completa-en-imdb">
+      <a href="https://www.imdb.com/title/tt1840417/" target="_blank">
+      Ver Ficha Completa en IMDb
+      </a>
+    </h6>
             ]]>
         </content>
     </entry>
