@@ -14,8 +14,8 @@
             "id": "https://peliculas.librosfamosos.com/el-ladron-de-palabras/",
             "url": "https://peliculas.librosfamosos.com/el-ladron-de-palabras/",
             "title": "El Ladrón de Palabras",
-            "summary": "\n    <h2 id=\"todo-acerca-de-la-pelculanbspposttitle-de-libros-famosos-qu-sali-primero-el-libro-o-la-pelcula-descubre-los-escritores-productores-actores-y-comprtelo-fcil\" class=\"align-center\">\n      Todo acerca de la Película&nbsp;%posttitle de Libros Famosos. ¿Qué salió primero; El Libro o la Película? Descubre los Escritores, Productores, Actores y compártelo fácil.\n    </h2>\n",
-            "content_html": "\n    <h2 id=\"todo-acerca-de-la-pelculanbspposttitle-de-libros-famosos-qu-sali-primero-el-libro-o-la-pelcula-descubre-los-escritores-productores-actores-y-comprtelo-fcil\" class=\"align-center\">\n      Todo acerca de la Película&nbsp;%posttitle de Libros Famosos. ¿Qué salió primero; El Libro o la Película? Descubre los Escritores, Productores, Actores y compártelo fácil.\n    </h2>\n<hr id=\"read-more\" />\n\n    <h4 id=\"ndice-de-contenidosbr1-quin-sali-primerobr2-sinopsis-de-la-pelculabr3-donde-ver-la-pelculabr4-sinopsis-del-librobr5-donde-leer-el-librobr\">\n      Índice de Contenidos:<br>1. ¿Quién salió primero?<br>2. Sinopsis de la Película<br>3. Donde Ver la Película<br>4. Sinopsis del Libro<br>5. Donde Leer el Libro<br>\n    </h4>\n\n    <h4 id=\"quin-sali-primero-el-libro-o-la-pelcula\">\n      ¿Quién salió Primero el Libro o la Película?\n    </h4>\n\n    <h3 id=\"sinopsis-de-la-pelculanbspposttitle\">\n      Sinopsis de la Película&nbsp;%posttitle\n    </h3>\n\n  <p>\n    \n  </p>",
+            "summary": "\n  <p id=\"todo-acerca-de-la-pelcula--de-libros-famosos-qu-sali-primero-el-libro-o-la-pelcula-descubre-los-escritores-productores-actores-y-comprtelo-fcil\" class=\"align-center\">\n    Todo acerca de la Película ... de Libros Famosos. ¿Qué salió primero; El Libro o la Película? Descubre los Escritores, Productores, Actores y compártelo fácil.\n  </p>\n",
+            "content_html": "\n  <p id=\"todo-acerca-de-la-pelcula--de-libros-famosos-qu-sali-primero-el-libro-o-la-pelcula-descubre-los-escritores-productores-actores-y-comprtelo-fcil\" class=\"align-center\">\n    Todo acerca de la Película ... de Libros Famosos. ¿Qué salió primero; El Libro o la Película? Descubre los Escritores, Productores, Actores y compártelo fácil.\n  </p>\n<hr id=\"read-more\" />\n\n    <h4 id=\"ndice-de-contenidosbr1-quin-sali-primerobr2-sinopsis-de-la-pelculabr3-donde-ver-la-pelculabr4-sinopsis-del-librobr5-donde-leer-el-librobr\">\n      Índice de Contenidos:<br>1. ¿Quién salió primero?<br>2. Sinopsis de la Película<br>3. Donde Ver la Película<br>4. Sinopsis del Libro<br>5. Donde Leer el Libro<br>\n    </h4>\n\n    <h4 id=\"quin-sali-primero-el-libro-o-la-pelcula\">\n      ¿Quién salió Primero el Libro o la Película?\n    </h4>\n\n    <h3 id=\"sinopsis-de-la-pelculanbspposttitle\">\n      Sinopsis de la Película&nbsp;%posttitle\n    </h3>\n\n  <p>\n    \n  </p>",
             "author": {
                 "name": "Ion Iacob y Jacqueline M.Q."
             },
@@ -26,7 +26,7 @@
                    "Aventuras"
             ],
             "date_published": "2021-03-12T00:13:43+02:00",
-            "date_modified": "2021-10-04T01:31:28+03:00"
+            "date_modified": "2021-10-04T01:58:43+03:00"
         }
     ]
 }
