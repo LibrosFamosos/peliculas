@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Peliculas para Consolarte</title>
+    <link href="https://peliculas.librosfamosos.com/feed.xml" rel="self" />
+    <link href="https://peliculas.librosfamosos.com" />
+    <updated>2021-03-12T00:40:44+02:00</updated>
+    <author>
+        <name>Ion Iacob</name>
+    </author>
+    <id>https://peliculas.librosfamosos.com</id>
+
+    <entry>
+        <title>El Ladrón de Palabras</title>
+        <author>
+            <name>Ion Iacob</name>
+        </author>
+        <link href="https://peliculas.librosfamosos.com/el-ladron-de-palabras/"/>
+        <id>https://peliculas.librosfamosos.com/el-ladron-de-palabras/</id>
+            <category term="Escritores"/>
+            <category term="De Película a Libro"/>
+            <category term="De Libro a Película"/>
+            <category term="Aventuras"/>
+
+        <updated>2021-03-12T00:40:44+02:00</updated>
+            <summary>
+                <![CDATA[
+                    
+    <h2 id="todo-acerca-de-la-pelculanbspposttitle-de-libros-famosos-que-sali-primero-el-libro-o-la-pelcula-descubre-los-escritores-productores-actores-y-comprtelo-fcil" class="align-center">
+      Todo acerca de la Película&nbsp;%posttitle de Libros Famosos. ¿Que salió primero; el Libro o la Película? Descubre los Escritores, Productores, Actores y compártelo fácil.
+    </h2>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="todo-acerca-de-la-pelculanbspposttitle-de-libros-famosos-que-sali-primero-el-libro-o-la-pelcula-descubre-los-escritores-productores-actores-y-comprtelo-fcil" class="align-center">
+      Todo acerca de la Película&nbsp;%posttitle de Libros Famosos. ¿Que salió primero; el Libro o la Película? Descubre los Escritores, Productores, Actores y compártelo fácil.
+    </h2>
+<hr id="read-more" />
+
+    <h4 id="ndice-de-contenidosbr1-quien-sali-primero-br2-sinopsis-de-la-pelcula-br3-donde-ver-la-pelcula-br4-sinopsis-del-libro-br5-donde-leer-el-librobr">
+      <a href="#reseña">
+      Índice de Contenidos:<br>1. ¿Quien salió primero?
+<br>2. Sinopsis de la Película
+<br>3. Donde Ver la Película
+<br>4. Sinopsis del Libro
+<br>5. Donde Leer el Libro<br>
+      </a>
+    </h4>
+
+    <h3 id="que-sali-primero-el-libro-o-la-pelcula">
+      <a href="#primero">
+      ¿Que salió primero; el Libro o la Película?
+      </a>
+    </h3>
+
+    <h3 id="sinopsis-de-la-pelculanbspposttitle">
+      <a href="#sinopsis-pelicula">
+      Sinopsis de la Película&nbsp;%posttitle
+      </a>
+    </h3>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
